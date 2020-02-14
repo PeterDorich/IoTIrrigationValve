@@ -1,10 +1,15 @@
-New repo for my portion of the IOT IRRIGATION VALVE project
 
-Project took place in 2017-2018. 
-
-Re-uploading only MY section as to not show others work on my portfolio
+IoT Irrigaton Valve System: 
 
 ![project_overview](/project_documents/Valve_System.png)
+
+The project was split into three equal parts. 
+1.The Valve Logic.
+2:The Communications Hub.
+3:The user interface.
+
+This repo will only contain my portion of the project, The Communications Hub.
+
 
 
 *******************************************************************************
