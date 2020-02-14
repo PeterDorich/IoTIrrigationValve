@@ -4,6 +4,8 @@ Project took place in 2017-2018.
 
 Re-uploading only MY section as to not show others work on my portfolio
 
+![project_overview](/project_documents/valve_System.png)
+
 
 *******************************************************************************
 Original README from project. Details how to setup the Hub.
