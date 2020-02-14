@@ -20,6 +20,7 @@ README for the Communication Hub
 
 
 Author: Peter Dorich
+
 Purpose: Access point for Valve to connect to via Long Range Radio signals.
          The intention is to have 1 hub for every farm. One hub can operate many different valves. There hasn't been testing to determine how many yet.
          The hub will send instructions to the valve and publish valve data to Adafruit.io
